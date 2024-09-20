@@ -1,0 +1,29 @@
+Register
+
+{
+    "username":"xyz",
+    "password":"1234",
+    "email":"xyz@gmail.com",
+    "country":"London"
+}
+
+ADD GIG
+{
+    "title": "Gig 3 Title",
+    "desc": "Gig 3 Desc",
+    "totalStars": 0,
+    "starNumber": 0,
+    "cat": "AI",
+    "price": 200,
+    "cover": "https://images.pexels.com/photos/15254469/pexels-photo-15254469.ipeg?auto=compress&cs=tinysrgb&w=1600&lazy=load" ,
+    "images": [
+    "https://images.pexels.com/photos/11581859/pexels-photo-11581859.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    "https://images.pexels.com/photos/12242010/pexels-photo-12242010.jpeg?auto=compress&cs=tinysrgb&W=1600&lazy=10ad",
+    "https://images.pexels.com/photos/4551011/pexels-photo-4551011.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+    ],
+    "shortTitle": "Gig 3 Short Title",
+    "shortDesc": "Gig 3 Short Desc" ,
+    "deliveryTime": 3,
+    "revisionNumber": 3,
+    "features":["feature 1","feature 2","feature 3"]
+}
